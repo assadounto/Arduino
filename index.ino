@@ -1,23 +1,13 @@
 /*
 
    This is the code for the Project
-   IoT Security Project using Fingerprint sensor & Hex Keypad.
+   IoT Security Project using Fingerprint sensor & Keypad
 
-
-   This code was written by Sachin Soni and Joy Jacob for
-   project made for techiesms YouTube channel.You can
-   watch the full tutorial video for the project on the
-   channel.
-
-   Anyone using this code for commercial purpose or replicating this
-   project on thier social medias should give credits to techiesms.
-
-
+   
+   This code was written by Sachin Soni and Joy Jacob and edited and improved by Richmond adu for lcd screens
+   Initial code was for oled screens . In case you are using oled screen go their cahnnel link
    Channel Link :- http://www.youtube.com/techiesms
 
-
-           techiesms
-   explore | learn | share
 
 */
 
